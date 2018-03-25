@@ -24,62 +24,19 @@
 ### **NUEVA EXPERIENCIA EN UNA PLATAFORMA DE INVERSIONES**
 
 ### **Contexto**
-![](assets/imgs/emprendedores.png)
 
-Jonatan e Italo son un par de emprendedores dedicados a las finanzas desde hace un par de años. Actualmente estan intersados en implementar un servicio con dos principales características: 
-1. Asesoría financiera online.
-2. Administradora de recursos e inversiones.
-
-Para esto se han inspirado en dos fintech de países vecinos  [Fintual](https://fintual.cl/) (Chile) y [Warren](https://oiwarren.com/) (Brasil).
-
-Se han propuesto crear una fintech 100% digital con las características anteriormente descritas.
 
 
 ### **Idea de negocio**
 
-ASESOR FINANCIERO ONLINE QUE PERMITE INVERTIR DE ACUERDO A TU PERFIL Y OBJETIVOS.
+
 
 ### **Público Objetivo**
-Jóvenes profesionales entre los 18 y 30 años.
-
 ### **Stakeholders**
-- Emprendedores.
-- Usuarios.
-- Reguladores estatales y financieros.
-
 ### **Reunión kick-off**
 #### **Entrevistas a los socios**
-1. ¿Cuál es el mensaje que se desea transmitir a los clientes?
-- Ser una fintech amigable creada para jóvenes profesionales que no saben de inversiones y desean cambiar la forma en que  manejan su dinero.
-
-2. ¿Cuáles son las principales características de la fintech?
-La fintech debe poseer lo siguiente:
-- Elaborar un perfil de inversor en base a un banco de preguntas aleatorias.
-- Almacenar los siguientes datos:
-    - Nombre completo.
-    - Edad.
-    - Dirección.
-    - Teléfono.
-    - Datos de la empresa en que labora.
-    - Ingresos mensuales.
-    - Tiempo de inversión.
-    - Email.
-    - Datos de cuenta bancaria.
-- Creación de un usuario y contraseña.
-- Capacidad de autogestión del usuario para ver el rendimiento de su inversión.
-- Opciones de inversión en renta fija y variable.
-- Dashboard con indicadores de inversiones.
-3. ¿Cuáles son sus principales competidores o modelos a seguir?
-En este caso seríamos los primeros en Perú, tenemos modelos a seguir como : [Fintual](https://fintual.cl/) (Chile) y [Warren](https://oiwarren.com/) (Brasil).
-
-Adicional a las preguntas, ellos brindaron un flujo de la fintech. 
-![](assets/imgs/flow.jpg)
-
 #### **Reguladores estatales y financieros**
-1. ¿Cuáles son las principales limitaciones que tenemos?
-- Reglamentación en lavado de activos.
-- Autenticación de identidad.
-- Declaraciones de origen de fondos y Compliance.
+
 #### **Guía de entrevistas a usuarios**
 - **Building Rapport**
 
@@ -91,27 +48,17 @@ Adicional a las preguntas, ellos brindaron un flujo de la fintech.
 
 - **Ahorros e ingresos**
 
-1.	Cuéntame ¿Ahorras actualmente?
-2.	¿Cuánto ahorras mensualmente en promedio?
-3.	¿Cuáles son los motivos por los cuales ahorras?
-4.	¿En los próximos 6 meses a cuánto ascenderá tu ingreso mensual aproximadamente?
 
 - **Objetivos y motivaciones**
-1.	¿Posees alguna meta o sueño en especial en la vida para ti o para tu familia? 
-2.	¿Qué estás haciendo actualmente para lograrlo?
+
 
 - **Inversiones**
 
-1.	¿Alguna vez has invertido? ¿Por qué?
-2.	¿Por qué decidiste invertir? o ¿Por qué no?
-3.	¿Estarías dispuesto a invertir parte de tus ahorros? ¿Por qué? 
 
 
 - **Otras preguntas**
 
-1.	Si te presentará una aplicación en la mediante la cual puedas invertir parte de tus ahorros. ¿Cómo te la imaginas? ¿Qué desearías que tenga? ¿Qué desearías que te informe?
-2.	¿Desearías que ese monto de tus ahorros a invertir, se debite de una cuenta principal, depositarlo o transferirlo?
-3.	Este monto a invertir lo realizarías de forma mensual, anual o en que periodos
+
 
 - **Debrief**
 
@@ -144,132 +91,116 @@ EN PROCESO
 Realizamos encuestas online a 50 personas con las siguientes preguntas:
  1. _**Edad:**_
 
-![](assets/imgs/p1.PNG)
+
 
  2. _**Género**_  
 
- ![](assets/imgs/p2.PNG)
+
   
   3. _**¿A qué te dedicas actualmente?**_  
- ![](assets/imgs/p3.PNG) 
- 
- 4. _**¿A cuánto asciende tu ingreso mensual?**_  
- ![](assets/imgs/p4.PNG)
- 
- 5. _**¿Cuánto estas dispuesto a ahorrar mensualmente?**_ 
- ![](assets/imgs/p5.PNG) 
- 
- 6. _**¿Cuáles son los motivos por los que ahorras?**_  
- ![](assets/imgs/p6.PNG)
-
-7. _**¿Alguna vez has invertido?**_  
- ![](assets/imgs/p7.PNG)
-
-8. _**¿Por qué decidiste invertir? o ¿Por qué no?**_  
-- ¿Por qué decidiste invertir?
-    - Inverti para generar un ingreso adicional.
-    - Para viajar al extranjero.
-    - Para ganar en base a la inversión y los intereses, duplicar mi presupuesto, generar más ingresos.
-    - Quise incursionar en un negocio propio / Tener crecimiento empresarial.
-    - Construir mi vivienda
-
-- ¿Por qué decidiste NO invertir?
-    - No deseaba variaciones en mis ingresos. 
-    - No me genera confianza.
-    - No me siento preparado.
-    - Falta de dinero.
-    - No me interesa.
-    - Falta de información acerca de la financiera.
-    - No sé en que invertir
-    - Porque estoy ahorrando y evaluando en que invertir
-    - Prefiero solo ahorrar
-    - Para invertir se necesita una gran cantidad de dinero.
-    - No me gustan las finanzas, ni me interesan.
-    - Falta de información acerca de las inversiones.
-    - Temor a perder el capital.
-    - No me gusta arriesgar.
-    - No tengo asesoría para invertir
 
 
-
-9. _**¿Estarías dispuest@ a invertir un porcentaje de tus ahorros? ¿Qué porcentaje?**_  ![](assets/imgs/p9.PNG)
-10. _**En el caso que no estés dispuesto a invertir. ¿Cuál sería el principal motivo?**_ 
-![](assets/imgs/p10.PNG)
-11. _**Si inviertes 1000 soles, existe la posibilidad de ganar 2000 soles así como perder 500. ¿Jugarías esto alguna vez?**_ 
- ![](assets/imgs/p11.PNG) 
-12. _**En base a la pregunta anterior.¿Volverías a jugar?**_  
-![](assets/imgs/p12.PNG)
 
 #### **Entrevistas a profundidad**
 Se realizaron entrevistas a profundidad con 6 personas a las cuales se les aplicó el siguiente cuestionario:
-https://drive.google.com/file/d/1EPWBOsojdfoME-dOiHEI8LKQF0mT2OE6/view?usp=sharing
+
 
 
 Las entrevistadas fueron:
 > ![](assets/imgs/entrevistadas.png)
 - Los audios de las entrevistas se encuentran en el siguiente link:
-> https://drive.google.com/file/d/1EPWBOsojdfoME-dOiHEI8LKQF0mT2OE6/view?usp=sharing 
 
-- _**Brainstorming de aplicativo/website/servicio**_  
 
-Adicional a eso se les presento a las entrevistadas la propuesta de una aplicación/web/servicio/producto la cual permita administrar tus ahorros e invertirlos.
-Ellas realizaron brainstorming partiendo de esa idea y plasmaron sus ideas en un papel del siguiente modo:
-> ![](assets/imgs/brainstorming.png)
 
 
 
 #### **Benchmark**
 Se realiza un benchmark con nuestros principales a modelos a seguir:
 
-- Fintual (Chile)
-> Es una administradora de dinero creada para jóvenes profesionales que no saben de inversiones o que prefieren ver Netflix antes que estar estudiando el mercado.
-- Warren (Brasil)
-> Warren es una empresa nueva, pero con una sólida fundación. Son años de experiencia profesional combinados para crear la primera plataforma de inversiones por objetivos de Brasil.
+VIEWRANGER
+-Busca rutas cercanas por nombre del lugar, por autor o por tipo de actividad.
+- Grabar rutas
+- Crea y sigue nuestras rutas o descarga de la librería de rutas de ciclismo y senderismo, generadas por la comunidad.
+- Mira estadísticas y gráfica
+-Añade fotos flickr, instagram y twitter al trayecto
+-Notificación de proximidad a un punto de paso durante la navegación
+-Acceder a mapas sin conexión
+- Funciona sin conexión en cualquier lugar del mundo, porque los datos se guardan en el celular
+-Integración con Apple Watch
+- Comparte aventuras (fb, Twitter, g+, pinterest)
+- Comparte ubicación con amigos (Buddy Beacon)
+- Tecnología de realidad aumentada (Skyline)
+- Notificación de proximidad a un punto de paso.
+ 
+MYTRAILS
+-Acceder a mapas sin conexión
+- Mapas gratis y de pago
+- Mapas topográficos
+- Mira estadísticas y gráficas (Crea tu propio dashboard)
+- Agrega manualmente puntos de interés. Estos se generan automáticamente
+ 
+ENDOMONDO
+- Descubre y crea nuevas rutas en tu zona y conviértete en el líder.
+- Seguimiento GPS y mapa en tiempo real
+- Fija metas de entrenamiento
+– Consulta la duración, velocidad, distancia o gasto calórico.
+– Obtén información audio sobre la distancia y el ritmo cada km.
+- Comparte tus entrenamientos (fb, Twitter, google +)
+- Variedad de deportes como correr, ciclismo urbano y de montaña, senderismo, kayak, esquí de fondo y más de 40 deportes más.
+- Metas e historial de entrenamientos
+- conecta otras apps y dispositivos
+- Plan de entrenamiento (Premium)
+- Estadísticas (Premium)
+- Control de ritmo cardiaco, calorias.
+ 
+ALLTRAILS
+- Descubre y crea nuevas rutas en tu zona de la librería de mapas.
+- Graba tus deportes de aventura con GPS de Alltrails
+- guarda tus rutas favoritas
+- Mira estadísticas y gráficas (Crea tu propio dashboard)
+-Acceder a mapas sin conexión
+- Sigue a otros usuarios
+- Accede a direcciones gps para conducir
+- Comparte tus entrenamientos en tu red social preferida (on Facebook, Instagram, and WhatsApp)
+-  Filtrar búsqueda por accessible para perros, niños o silla de ruedas.
+ 
+KOMOOT
+-Acceder a mapas sin conexión
+- Graba tus deportes de aventura con GPS de Alltrails
+-Obtén rutas para que el deporte que desees(ciclismo, escalada)
+- Navegación por voz
+- Agrega fotos, y sigue amigos
+- Sincroniza con otros dispositivos
+- Comparte tus entrenamientos en tu red social preferida (Facebook, Instagram y Twitter.)
+- Solo la primera región es gratis
+ 
+GPS STRAVA
+- Conecta con tus amigos y compañeros
+- Descubre y crea nuevas rutas en tu zona de la librería de mapas.
+-Compatible con la mayoría de dispositivos
+- Control de ritmo cardiaco
+- función Beacon, que permite saber dónde estás en tiempo real
+- Mira estadística y gráfica de tu desempeño.
+- Sincroniza con otros dispositivos
+- Permite guardar ‘segmentos’ y compararlos con los de otras personas que han seguido la misma ruta.
+- Participa en retos personales y para conseguir la mejor marca en ‘segmentos’
+- Comparte tus entrenamientos en tu red social preferida (Facebook, Instagram y Twitter.)
+ 
+ 
+ 
+ 
+ 
+ 
 
-> ![](assets/imgs/benchmarking.png)
+
+
 
 ### **Resultados de la investigación**
-1. La app debe ser amigable, la comunicación entre el usuario y esta debe ser de forma clara para aquellas personas que simplemente les da flojera o no quieren perder el tiempo revisando temas de finanzas e inversiones.
-Además debe plasmar de forma clara que está ocurriendo con el dinero del usuario.
-2.  Invertir será posible desde un monto mínimo de 100 soles accesible para jóvenes con un ingreso promedio desde 450 soles mensuales sustentando con los respectivos documentos.
-3. Los usuarios están dispuestos a ahorrar hasta 1000 soles mensuales de sus ingresos.
-4. Los principales objetivos y motivaciones por lo cuales ahorran son:
-    - Vacaciones y viajes.
-    - Emergencias e imprevistos.
-    - Un negocio propio.
-    - Adquirir una vivienda.
-    - Jubilación y futuro familiar.
-5. Ellos están dispuestos a invertir hasta un 40% de sus ahorros 
-6. Nuestros usuarios generalmente no han invertido por falta de confianza, no tienen información acerca de inversiones, no les gustan las finanzas o simplemente les invade el temor a arriesgar.
-7. De los usuarios que han invertido lo han hecho en pequeñas cantidades generalmente en compra y venta de producto o en un negocio familiar.
-8. El 44% arriesgaría un monto de sus ahorros al menos una vez y el 40% lo volvería hacer.
-9. Según nuestros usuarios la aplicación debe enfocarse en los montos invertidos de la siguiente manera:
-    -  Mostrar el monto meta, monto a jugar, intéres ganado, monto que puedo rescatar y las fechas de inversión y el tiempo de retorno de la inversión.
-    - Sugerir empresas en las cuales pueda invertir mediante un rankinh y por categorías (Educación, salud, servicios, etc).
-    - Las empresas en las cuales pueda invertir deben mostrar su nombre, descripcion y un simulador de la tendencia en el caso que decida invertir en ella.
-    - Respecto a las inversiones un evolutivo de cada inversión diario, semanal y mensual.
-    - El monto a invertir debe debitarse de una cuenta principal.
-10. Por otro lado las aplicaciones analizadas se centran en un perfil de inversor y sugerir en que empresas podríamos invertir.
+
 
 ### **SÍNTESIS Y DEFINICIÓN**
 ### **Affinity Mapping**
 Se comenzó a trabajar para realizar el ejercicio de **findings en post it** para posteriormente realizar el **Affinity Mapping** donde se agruparon los principales motivos de inversión y no inversión según su categoría.
-![](assets/imgs/motivos.jpg)
-
-Se agruparon los motivos por los cuales los usuarios habían invertido o no en las siguientes categorías.
-1. Motivos de inversión
-- Generar mayores ingresos.
-- Tener un negocio propio.
-- Construir una vivienda.
-- Viajar al extranjero.
-2. Motivos de NO inversión
-- Falta de información 
-- Genera inseguridad.
-- Temor a pérdidas de capital.
-- Desinterés.
-
-Luego de analizar todo la información obtenida, nos dimos cuenta de que de las categorías "Falta de Información" y "Temor a pérdidas de capital"  tienen más coincidencia entre nuestros usuarios como principales causas para evitar invertir.
-Por lo tanto se abordará estos temas en la aplicación mediante un asesor financiero online e informando de forma clara el nivel de riesgo de acuerdo a la inversión que se realice.
 
 #### **Comentarios de los usuarios**
 - "Porque las finanzas o temas de dinero no son lo mío, me causa mucha inseguridad por el tema legal. Pero, si me informase mejor de cómo hacerlo correctamente, me animaría a hacerlo."
@@ -280,29 +211,29 @@ Por lo tanto se abordará estos temas en la aplicación mediante un asesor finan
 - "Me da miedo y siento que no soy una persona muy orientada a esas cosas."
 ### **User persona**
 #### **User persona primario**
- ![](assets/imgs/andrea-user.png)
+ 
 #### **User persona secundario**
- ![](assets/imgs/chris-user.png)
+
 ### **Problems Statements**
-1. Andrea **necesita** información del rendimiento de las empresas **para** invertir sus ahorros.
-2. Andrea **necesita** sugerencias de empresas **para** invertir de acuerdo a su perfil.
-3. Andrea **necesita** obtener más ingresos **para** realizar todos sus viajes planeados.
-4. Andrea **necesita** invertir de forma sencilla **para** emplear su tiempo en otras actividades.
-5. Andrea **necesita** mantenerse informada de sus inversiones **para** tener seguridad de que sus ahorros estan creciendo.
-6. Andrea **necesita** un asesor financiero **para** mejorar sus inversiones en un determinado tiempo.
-7. Andrea **necesita** rescatar sus inversiones de forma rápida **para** solventar sus gastos en cualquier momento.
-8. Andrea **necesita** invertir en el corto plazo **para** obtener ingresos rápidamente.
-9. Andrea **necesita** autorizar el uso de su firma digital **para** realizar inversiones en línea.
+1.  **necesita**  **para** invertir sus ahorros.
+2.  **necesita** **para** invertir de acuerdo a su perfil.
+3.  **necesita**  **para** realizar todos sus viajes planeados.
+4.  **necesita**  **para** emplear su tiempo en otras actividades.
+5.  **necesita**  **para** tener seguridad de que sus ahorros estan creciendo.
+6.  **necesita**  **para** mejorar sus inversiones en un determinado tiempo.
+7.  **necesita**  **para** solventar sus gastos en cualquier momento.
+8.  **necesita**  **para** obtener ingresos rápidamente.
+9.  **necesita**  **para** realizar inversiones en línea.
 ### **How Might We? (HMW)**
-1. **HMW** mostrar información del rendimiento evolutivo a invertir?
-2. **HMW** mostrar empresas sugeridas a nuestros usuarios para que inviertan?
-3. **HMW** hacer que los usuarios obtengan más ingresos?
-4. **HMW** hacer que los usuarios inviertan sin desconfianza?
-5. **HMW** informar a los usuarios acerca del comportamiento de sus inversiones?
-6. **HMW** asesorar al usuario según su perfil del inversor?
-7. **HMW** rescatar rápidamente el dinero de nuestros usuarios?
-8. **HMW** mostrar los cálculos en el corto y largo plazo?
-9. **HMW** plasmar la firma digital para permitir las inversiones en las empresas.
+1. **HMW** ?
+2. **HMW** ?
+3. **HMW** ?
+4. **HMW** ?
+5. **HMW** ?
+6. **HMW** ?
+7. **HMW** ?
+8. **HMW** ?
+9. **HMW**?
 ### **What if?**
 1. **What if** no necesitamos la firma para las transacciones?
 2. **What if** un asesor realiza los trámites para autorizar el débito del monto mensual?
@@ -331,7 +262,7 @@ Por lo tanto se abordará estos temas en la aplicación mediante un asesor finan
 ### **PROTOTYPING**  
 #### **Arquitectura de la información**
 1.  _**Card Sorting**_
-- Luego de analizar las necesidades de los usuarios se propusieron 15 items para la arquitectura de información del aplicativo. 
+- Luego de analizar las necesidades de los usuarios se propusieron xx items para la arquitectura de información del aplicativo. 
 - Se utilizó el card sorting abierto para que los usuarios crearán categorías y agruparán items en estas. 
 - En el siguiente link se encuentra la aplicación de la técnica: https://drive.google.com/open?id=1_oUxJWZEQ0nMZj87d2uyjHuHRCA-pUHi
 
@@ -341,7 +272,7 @@ Por lo tanto se abordará estos temas en la aplicación mediante un asesor finan
 - Se agregó "Lista de inversión" y "Rescatar".
 - Con estas actualizaciones se logró eliminar los flujos innecesarios, sobretodo reducir los pasos para realizar alguna tarea.
 Este es el esquema que se obtuvo como resultado:
- ![](assets/imgs/card-sorting-financiatech.jpg)
+
 
 3.  _**Propuesta de arquitectura de información**_ 
 Se plantea 3 flujos principales en que integren las principales tareas:
@@ -349,7 +280,7 @@ Se plantea 3 flujos principales en que integren las principales tareas:
 2. Sugerencias de inversión.
 3. Rescatar montos parciales y totales de las inversiones.
 4. Plantear nuevos objetivos y visualizar los actuales.
- ![](assets/imgs/ai.PNG)
+
 #### **Paper prototyping - versión 1**
 #### **Paper prototyping - versión 2**
 #### **Prototipo de alta fidelidad**
