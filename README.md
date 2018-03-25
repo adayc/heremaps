@@ -1,4 +1,4 @@
-# Financiate App
+# Here Maps
 -------------------
 ## Tabla de contenido
 - [Idea de Negocio](#idea-de-negocio)
