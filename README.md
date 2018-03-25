@@ -67,7 +67,7 @@ De las cosas que hemos conversado.
 Cómo mencione, es un poco para saber cómo interactúan los usuarios con sus ahorros e inversiones.
 
 ### **Business Model Canvas**
-![](assets/imgs/canvas.png)
+
 ### **Plan propuesto de investigación**
 
 #### **Objetivo de la investigación:**
@@ -281,6 +281,8 @@ Se plantea 3 flujos principales en que integren las principales tareas:
 3. Rescatar montos parciales y totales de las inversiones.
 4. Plantear nuevos objetivos y visualizar los actuales.
 
+
+3.  _**Sitemap*_ 
 #### **Paper prototyping - versión 1**
 #### **Paper prototyping - versión 2**
 #### **Prototipo de alta fidelidad**
@@ -291,29 +293,64 @@ Se plantea 3 flujos principales en que integren las principales tareas:
 #### **User Flow**
 #### **Task Flow**
 #### **Customer Journey Map**
-- _**Flujo ideal del producto**_ 
-- _**Flujo real del producto**_ 
+- _**Mdificaciones realizadas**_ 
+- _**Script del testing**_ 
+- _**Tareas a realizar**_ 
+- _**Feedback**_ 
+
 
 #### **Primer testing - paper prototyping**
 - _**Script del testing**_ 
 - _**Tareas a realizar**_ 
+- _**Conclusión**_ 
 
 #### **Segundo testing - paper prototyping**
+- _**Mdificaciones realizadas**_ 
 - _**Script del testing**_ 
 - _**Tareas a realizar**_ 
+- _**Feedback**_ 
 #### **Tercer testing - prototipo de alta fidelidad**
+- _**Mdificaciones realizadas**_ 
 - _**Script del testing**_ 
 - _**Tareas a realizar**_ 
+- _**Feedback**_ 
+#### Task Completion Success Rate
+### **VISUAL DESIGN**
+#### **Guia de estilo**
+#### **Landing Page**
 
 ### **CONCLUSIONES**
 
-#### **Landing Page**
+
 
 #### **Tecnología a emplear**
+
+#### Tipo de APP
 - Nuestro producto es una aplicación nativa, desarrollada tanto para iOS como para Android.
 
 - La elección fue hecha a raíz de que la mayoría de nuestros usuarios  usan sus dispositivos celulares todo el tiempo para estar conectados y para realizar operaciones bancarias y también porque se quiere aprovechar ciertas capacidades tanto del dispositivo como del sistema operativo, por ejemplo:
 
 - Biometría: Opción de la huella dactilar para el ingreso al aplicativo, puesto que esto supone una mayor seguridad para el usuario.
+
+### APIS y SDK
+Para la visualización del mapa o el Display Map, usar el siguiente Feature “INTERACTIVE
+MAPS” ( https://developer.here.com/documentation/android-starter/topics/maps.html o
+https://developer.here.com/documentation/ios-starter/topics/maps.html ).
+ Para la opción grabar recorrido, recomendamos el Feature “POSITIONING”
+(https://developer.here.com/documentation/android-starter/topics/mappositioning.html).
+ Para poder encontrar lugares que se encuentran alrededor de mi posición recomendamos
+usar el Feature “PLACES” (https://developer.here.com/documentation/androidstarter/topics/places.html
+).
+ Para poder reportar errores en el mapa, falta de información o sugerencias puedes usar el
+siguiente Feature “MAP FEEDBACK”
+(https://developer.here.com/documentation/embedded-editor/topics/add-as-appcomponent.html
+).
+ Para poder darle la ruta a tomar si encuentra un lugar cercano, utilizar el siguiente Feature
+“ROUTING” (https://developer.here.com/documentation/android-starter/topics/routingstarter.html
+).
+ Si se desea consultar el tiempo climático del lugar donde se encontrará una semana antes,
+utilizar el siguiente Feature “Weather”
+(https://developer.here.com/documentation/weather/topics/example-seven-dayweather-forecast.html
+).
 
 - GPS: Permite el acceso a la ubicación del usuario en la opción de Retiro express.
