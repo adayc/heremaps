@@ -13,6 +13,7 @@
 - [Propuesta de research](#propuesta-de-research)
 
 - [Trello de organización](#trello-de-organización)
+  https://trello.com/b/eUD31zlB/here-maps
 - [Nuestro proceso de UX](#nuestro-proceso-ux)
 
 - [User Research](#user-research)
