@@ -89,27 +89,32 @@ EN PROCESO
 ### **DESCUBRIMIENTO E INVESTIGACIÓN**
 ### **Recopilación y análisis de datos**
 #### **Encuestas online**
-Realizamos encuestas online a 50 personas con las siguientes preguntas:
- 1. _**Edad:**_
+Realizamos encuestas online a 25 personas con las siguientes preguntas:
+1. _**Edad:**_
+2. _**Sexo**_  
+3. _**¿A qué te dedicas?**_  
+4. _**¿Cuál es motivo principal por el que viajas?**_
+5. _**¿Cuántas veces al año realiza un viaje?**_
+6. _**¿Que tan importante es la variedad de actividades al escoger tu destino?**_
+7. _**¿ Qué actividades sueles realizar en tus vacaciones?**_
+8. _**¿Cuál es tu destino para vacacionar preferido? En el caso que hayas visitado el Perú ¿Podrías indicarnos algún lugar en especial?**_
+9. _**¿Cuál de las siguientes opciones usas con más frecuencia cuando viajas?**_
+10. _**Marca las actividades que hayas realizado en tus viajes al menos una vez**_
+11. _**Si marcaste alguna de las opciones anteriores, como organizaste esas actividades**_
+12. _**¿Alguna vez has experimentado algún inconveniente al realizar estas actividades? Si es así, mencionalo.**_
+13. _**¿Conoces algunas de estas apps de rutas?**_
+14. _**¿Cuéntanos tu experiencia respecto a las apps que empleaste?**_
 
-
-
- 2. _**Género**_  
-
-
-  
-  3. _**¿A qué te dedicas actualmente?**_  
-
-
+El cuestionario se encuentra en el siguiente link: https://goo.gl/forms/eyfHsOQst4SsXFVu2
 
 #### **Entrevistas a profundidad**
 Se realizaron entrevistas a profundidad con 6 personas a las cuales se les aplicó el siguiente cuestionario:
 
 
 
-Las entrevistadas fueron:
-> ![](assets/imgs/entrevistadas.png)
-- Los audios de las entrevistas se encuentran en el siguiente link:
+
+
+- Los audios de las entrevistas se encuentran en el siguiente link: https://drive.google.com/drive/folders/1YPkveBsqUj5OSWa31gtMmR662HzrXJXV?usp=sharing
 
 
 
