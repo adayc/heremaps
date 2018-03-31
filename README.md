@@ -82,9 +82,9 @@ El cuestionario se encuentra en el siguiente link: https://goo.gl/forms/eyfHsOQs
 Los resultados del estudio se en cuentran en: https://drive.google.com/file/d/1GmlfXrcV22nbojDt8mURNBMBb_QW51nI/view?usp=sharing 
 
 #### **Entrevistas a profundidad**
-Se realizaron entrevistas a profundidad con 6 personas a las cuales se les aplicó el siguiente cuestionario:
+Se realizaron entrevistas a profundidad con 4 personas a las cuales se les aplicó el siguiente cuestionario:
 
-#### **Guía de entrevistas a usuarios**
+
 - **Building Rapport**
 
 1. 	Por favor, me indicas tu nombre.
@@ -93,37 +93,24 @@ Se realizaron entrevistas a profundidad con 6 personas a las cuales se les aplic
 4.	Cuéntame sobre ti. ¿Cómo te defines? ¿Con quienes vives? ¿Qué haces cuando tienes tiempo libre?
 5.	¿A qué te dedicas actualmente? (Trabajas, estudias, ambas)
 
-- **Ahorros e ingresos**
+- **Preferencias al viajar**
+6. ¿Cuál es motivo principal por el que viajas? (Trabajo, estudios, visitas familiares)
+7. ¿Cuántas veces al año realiza un viaje?
+8. ¿Es importante la variedad de actividades al escoger tu destino?¿Por qué?
+9. ¿ Qué actividades sueles realizar en tus vacaciones? (Deportes de aventura, recorridos turisticos, tours culturales)
+10. ¿Cuál es tu destino para vacacionar preferido? ¿Algún departamento del Perú en especial? ¿Por qué?
+- **Planning de viajes**
+11. ¿Qué apps empleas generalmente cuando viajas? (Google Maps, redes sociales, app de rutas) ¿Para qué las empleas?
+12. ¿Cuales son  las actividades que hayas realizado en tus viajes al menos una vez
+13. ¿Con qué organizaste estas actividades ?
+14. ¿Por qué las organizaste de ese modo?
+15. ¿Alguna vez has experimentado algún inconveniente al realizar estas actividades? Si es así, mencionalo.
 
+- **Conocimiento de apps**
+16. ¿Conoces Wikilooc? ¿Para qué la has empleado?
+17. Presentar wikilooc e indicarle las tareas (Grabar ruta, clasificarla según actividad, explorar rutas alternas)
 
-- **Objetivos y motivaciones**
-
-
-- **Inversiones**
-
-
-
-- **Otras preguntas**
-
-
-
-- **Debrief**
-
-De las cosas que hemos conversado.
-¿Hay alguna pregunta que deseas realizar?
-Cómo mencione, es un poco para saber cómo interactúan los usuarios con sus ahorros e inversiones.
-
-
-
-
-
-
-
-- Los audios de las entrevistas se encuentran en el siguiente link: https://drive.google.com/drive/folders/1YPkveBsqUj5OSWa31gtMmR662HzrXJXV?usp=sharing
-
-
-
-
+- Los audios y videos de las entrevistas se encuentran en el siguiente link: https://drive.google.com/drive/folders/1YPkveBsqUj5OSWa31gtMmR662HzrXJXV?usp=sharing
 
 #### **Benchmark**
 Se realiza un benchmark con nuestros principales a modelos a seguir:
@@ -196,11 +183,6 @@ GPS STRAVA
 - Permite guardar ‘segmentos’ y compararlos con los de otras personas que han seguido la misma ruta.
 - Participa en retos personales y para conseguir la mejor marca en ‘segmentos’
 - Comparte tus entrenamientos en tu red social preferida (Facebook, Instagram y Twitter.)
- 
- 
- 
- 
- 
  
 
 
