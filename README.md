@@ -38,34 +38,6 @@
 #### **Entrevistas a los socios**
 #### **Reguladores estatales y financieros**
 
-#### **Guía de entrevistas a usuarios**
-- **Building Rapport**
-
-1. 	Por favor, me indicas tu nombre.
-2.	Podría indicarme tu edad.
-3.	¿Qué tal? ¿Cómo estuvo tu día hoy?
-4.	Cuéntame sobre ti. ¿Cómo te defines? ¿Con quienes vives? ¿Qué haces cuando tienes tiempo libre?
-5.	¿A qué te dedicas actualmente? (Trabajas, estudias, ambas)
-
-- **Ahorros e ingresos**
-
-
-- **Objetivos y motivaciones**
-
-
-- **Inversiones**
-
-
-
-- **Otras preguntas**
-
-
-
-- **Debrief**
-
-De las cosas que hemos conversado.
-¿Hay alguna pregunta que deseas realizar?
-Cómo mencione, es un poco para saber cómo interactúan los usuarios con sus ahorros e inversiones.
 
 ### **Business Model Canvas**
 
@@ -107,8 +79,41 @@ Realizamos encuestas online a 25 personas con las siguientes preguntas:
 
 El cuestionario se encuentra en el siguiente link: https://goo.gl/forms/eyfHsOQst4SsXFVu2
 
+Los resultados del estudio se en cuentran en: https://drive.google.com/file/d/1GmlfXrcV22nbojDt8mURNBMBb_QW51nI/view?usp=sharing 
+
 #### **Entrevistas a profundidad**
 Se realizaron entrevistas a profundidad con 6 personas a las cuales se les aplicó el siguiente cuestionario:
+
+#### **Guía de entrevistas a usuarios**
+- **Building Rapport**
+
+1. 	Por favor, me indicas tu nombre.
+2.	Podría indicarme tu edad.
+3.	¿Qué tal? ¿Cómo estuvo tu día hoy?
+4.	Cuéntame sobre ti. ¿Cómo te defines? ¿Con quienes vives? ¿Qué haces cuando tienes tiempo libre?
+5.	¿A qué te dedicas actualmente? (Trabajas, estudias, ambas)
+
+- **Ahorros e ingresos**
+
+
+- **Objetivos y motivaciones**
+
+
+- **Inversiones**
+
+
+
+- **Otras preguntas**
+
+
+
+- **Debrief**
+
+De las cosas que hemos conversado.
+¿Hay alguna pregunta que deseas realizar?
+Cómo mencione, es un poco para saber cómo interactúan los usuarios con sus ahorros e inversiones.
+
+
 
 
 
