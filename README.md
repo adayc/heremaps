@@ -80,7 +80,7 @@ Realizamos encuestas online a 25 personas con las siguientes preguntas:
 
 El cuestionario se encuentra en el siguiente link: https://goo.gl/forms/eyfHsOQst4SsXFVu2
 
-Los resultados del estudio se en cuentran en: https://drive.google.com/file/d/1GmlfXrcV22nbojDt8mURNBMBb_QW51nI/view?usp=sharing 
+Los resultados del estudio se encuentran en: https://drive.google.com/file/d/1GmlfXrcV22nbojDt8mURNBMBb_QW51nI/view?usp=sharing 
 
 #### **Entrevistas a profundidad**
 Se realizaron entrevistas a profundidad con 6 personas a las cuales se les aplicó el siguiente cuestionario:
@@ -125,12 +125,19 @@ Se realizaron entrevistas a profundidad con 6 personas a las cuales se les aplic
 - Los videos del test se encuentran en el siguiente link: https://drive.google.com/drive/folders/1YPkveBsqUj5OSWa31gtMmR662HzrXJXV?usp=sharing
 
 #### **Benchmark**
-Se realiza un benchmark con nuestros principales a modelos a seguir:
+Se realiza un benchmark con nuestros principales  modelos a seguir:
 
 ![](assets/imgs/bench.png)
 
 ### **Resultados de la investigación**
-
+1. Los entrevistados generalmente trabajan y estudian, ahorrar por un determinado tiempo para planificar sus viajes una o dos veces al año.
+2. El principal motivo por el que realizan viajes es turismo con un 62% seguido de visitas familiares con un 18%.
+3. Para los viajeros es importante la variedad de actividades que se pueden realizar en los viajes.
+4. Las actividades que se realizan generalmente son recorridos turísticos (visitas gastronómicas, culturales e historicas) además de visitar festividades típicas del lugar.
+5. Google maps y las redes sociales con reseñas de viajes son las opciones más consultadas al momento de planear y durante el viaje.
+6. Las actividades/deportes que se realizan en los viajes son: el paseo en tren, paseo a caballo, paseo en cuatrimotos, natación, ciclismo, escalada y senderismo.
+7. Al momento de realizar las actividades descritas anteriormente las planean por su cuenta empleando Google Maps generalmente y no han tenido inconvenientes cuando las realizaban.
+8. El 88% de los encuestados no conocen ninguna aplicación que permita trackear y monitorear recorridos.
 
 ### **SÍNTESIS Y DEFINICIÓN**
 ### **Affinity Mapping**
