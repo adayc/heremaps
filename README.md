@@ -44,8 +44,7 @@
 ### **Plan propuesto de investigación**
 
 #### **Objetivo de la investigación:**
-Identificar las variables que determinan el comportamiento de los jóvenes profesionales en temas ahorro e inversión y analizar su comportamiento en el contexto financiero digital.
-
+Identificar las variables que determinan el uso de apps de monitoreo de recorrido por los jóvenes que viajan regularmente además de obtener información acerca de como planean las actividades que realizan en sus viajes.
 #### **Objetos a investigar:**
 - Apps de turismos.
 - Jóvenes que viajan entre 18 y 28 años.
