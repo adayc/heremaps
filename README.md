@@ -22,7 +22,7 @@
 - [Task Flow](#task-flow)
 - [Equipo de trabajo](#equipo-de-trabajo)
 
-### **NUEVA EXPERIENCIA EN UNA PLATAFORMA DE INVERSIONES**
+### **EXPERIENCIA EN EL USO DE APPS DE MONITOREO Y TRACK DE RECORRIDOS**
 
 ### **Contexto**
 
