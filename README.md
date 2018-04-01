@@ -107,8 +107,8 @@ Se realizaron entrevistas a profundidad con 6 personas a las cuales se les aplic
 15. ¿Alguna vez has experimentado algún inconveniente al realizar estas actividades? Si es así, mencionalo.
 
 - **Conocimiento de apps**
-16. ¿Conoces Wikilooc? ¿Para qué la has empleado?
-17. Presentar wikilooc e indicarle las tareas (Grabar ruta, clasificarla según actividad, explorar rutas alternas)
+16. ¿Conoces Wikiloc? ¿Para qué la has empleado?
+17. Presentar wikiloc e indicarle las tareas (Grabar ruta, clasificarla según actividad, explorar rutas alternas)
 
 - Los audios y videos de las entrevistas se encuentran en el siguiente link: https://drive.google.com/drive/folders/1YPkveBsqUj5OSWa31gtMmR662HzrXJXV?usp=sharing
 
@@ -122,82 +122,12 @@ Se realizaron entrevistas a profundidad con 6 personas a las cuales se les aplic
 5. Describir los elementos que conforman la ruta.
 6. Finalizar la ruta que esta realizando.
 
-
 - Los videos del test se encuentran en el siguiente link: https://drive.google.com/drive/folders/1YPkveBsqUj5OSWa31gtMmR662HzrXJXV?usp=sharing
-
 
 #### **Benchmark**
 Se realiza un benchmark con nuestros principales a modelos a seguir:
 
-VIEWRANGER
--Busca rutas cercanas por nombre del lugar, por autor o por tipo de actividad.
-- Grabar rutas
-- Crea y sigue nuestras rutas o descarga de la librería de rutas de ciclismo y senderismo, generadas por la comunidad.
-- Mira estadísticas y gráfica
--Añade fotos flickr, instagram y twitter al trayecto
--Notificación de proximidad a un punto de paso durante la navegación
--Acceder a mapas sin conexión
-- Funciona sin conexión en cualquier lugar del mundo, porque los datos se guardan en el celular
--Integración con Apple Watch
-- Comparte aventuras (fb, Twitter, g+, pinterest)
-- Comparte ubicación con amigos (Buddy Beacon)
-- Tecnología de realidad aumentada (Skyline)
-- Notificación de proximidad a un punto de paso.
- 
-MYTRAILS
--Acceder a mapas sin conexión
-- Mapas gratis y de pago
-- Mapas topográficos
-- Mira estadísticas y gráficas (Crea tu propio dashboard)
-- Agrega manualmente puntos de interés. Estos se generan automáticamente
- 
-ENDOMONDO
-- Descubre y crea nuevas rutas en tu zona y conviértete en el líder.
-- Seguimiento GPS y mapa en tiempo real
-- Fija metas de entrenamiento
-– Consulta la duración, velocidad, distancia o gasto calórico.
-– Obtén información audio sobre la distancia y el ritmo cada km.
-- Comparte tus entrenamientos (fb, Twitter, google +)
-- Variedad de deportes como correr, ciclismo urbano y de montaña, senderismo, kayak, esquí de fondo y más de 40 deportes más.
-- Metas e historial de entrenamientos
-- conecta otras apps y dispositivos
-- Plan de entrenamiento (Premium)
-- Estadísticas (Premium)
-- Control de ritmo cardiaco, calorias.
- 
-ALLTRAILS
-- Descubre y crea nuevas rutas en tu zona de la librería de mapas.
-- Graba tus deportes de aventura con GPS de Alltrails
-- guarda tus rutas favoritas
-- Mira estadísticas y gráficas (Crea tu propio dashboard)
--Acceder a mapas sin conexión
-- Sigue a otros usuarios
-- Accede a direcciones gps para conducir
-- Comparte tus entrenamientos en tu red social preferida (on Facebook, Instagram, and WhatsApp)
--  Filtrar búsqueda por accessible para perros, niños o silla de ruedas.
- 
-KOMOOT
--Acceder a mapas sin conexión
-- Graba tus deportes de aventura con GPS de Alltrails
--Obtén rutas para que el deporte que desees(ciclismo, escalada)
-- Navegación por voz
-- Agrega fotos, y sigue amigos
-- Sincroniza con otros dispositivos
-- Comparte tus entrenamientos en tu red social preferida (Facebook, Instagram y Twitter.)
-- Solo la primera región es gratis
- 
-GPS STRAVA
-- Conecta con tus amigos y compañeros
-- Descubre y crea nuevas rutas en tu zona de la librería de mapas.
--Compatible con la mayoría de dispositivos
-- Control de ritmo cardiaco
-- función Beacon, que permite saber dónde estás en tiempo real
-- Mira estadística y gráfica de tu desempeño.
-- Sincroniza con otros dispositivos
-- Permite guardar ‘segmentos’ y compararlos con los de otras personas que han seguido la misma ruta.
-- Participa en retos personales y para conseguir la mejor marca en ‘segmentos’
-- Comparte tus entrenamientos en tu red social preferida (Facebook, Instagram y Twitter.)
- 
+![](assets/imgs/bench.png)
 
 ### **Resultados de la investigación**
 
