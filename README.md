@@ -141,6 +141,10 @@ Se realiza un benchmark con nuestros principales  modelos a seguir:
 9. La recomendación de amigos juega un papel muy importante al momento de planear un viaje pues esto les genera mayor confianza.
 10. Los principales destinos turisticos para visitar son las montañas y evitan quedarse en ciudades grandes.
 11. Una de las actividades que tambien se realiza de manera usual es tomar fotografías para compartirla en las redes sociales.
+12. 
+13. 
+14. 
+15. Al realizar el comparativo con las principales apps las características que destacaron son: la búsqueda de rutas cercanas y que permita grabarlas, presentación de datos estadísticos y gráficos de las rutas, compartir fotos y videos en redes sociales (Facebook, twitter, Instagram, g+ y Pinterest),acceso a mapas sin conexión, compartir ubicación en tiempo real (buddy beacon),tecnología de realidad aumentada (skyline), seguir a otros usuarios, registrar variedad de deportes y el filtrado de búsqueda para perros, niños o personas en silla de ruedas.
 
 ### **SÍNTESIS Y DEFINICIÓN**
 ### **Affinity Mapping**
