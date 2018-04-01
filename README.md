@@ -47,15 +47,16 @@
 Identificar las variables que determinan el comportamiento de los jóvenes profesionales en temas ahorro e inversión y analizar su comportamiento en el contexto financiero digital.
 
 #### **Objetos a investigar:**
-- Fintech de otros países.
-- Jóvenes profesionales entre 18 y 30 años.
+- Apps de turismos.
+- Jóvenes que viajan entre 18 y 28 años.
 #### **Técnicas a utilizar:**
 - Encuestas online
 - Entrevistas a profundidad
+- Testing de apps
 - Benchmark
-- Testing
+
 ### **Planner del proyecto**
-EN PROCESO 
+https://trello.com/b/eUD31zlB/here-maps
 ### **Proceso de diseño**
 ![](assets/imgs/proceso.png)
 ### **DESCUBRIMIENTO E INVESTIGACIÓN**
@@ -82,8 +83,7 @@ El cuestionario se encuentra en el siguiente link: https://goo.gl/forms/eyfHsOQs
 Los resultados del estudio se en cuentran en: https://drive.google.com/file/d/1GmlfXrcV22nbojDt8mURNBMBb_QW51nI/view?usp=sharing 
 
 #### **Entrevistas a profundidad**
-Se realizaron entrevistas a profundidad con 4 personas a las cuales se les aplicó el siguiente cuestionario:
-
+Se realizaron entrevistas a profundidad con 6 personas a las cuales se les aplicó el siguiente cuestionario:
 
 - **Building Rapport**
 
@@ -111,6 +111,20 @@ Se realizaron entrevistas a profundidad con 4 personas a las cuales se les aplic
 17. Presentar wikilooc e indicarle las tareas (Grabar ruta, clasificarla según actividad, explorar rutas alternas)
 
 - Los audios y videos de las entrevistas se encuentran en el siguiente link: https://drive.google.com/drive/folders/1YPkveBsqUj5OSWa31gtMmR662HzrXJXV?usp=sharing
+
+#### **Test - Wikiloc**
+- Se realizo el test de la aplicación con 2 personas que viajan constantemente alrededor del mundo.
+- Se les brindo una lista de tareas entre ellas:
+1. Empezar a grabar una ruta.
+2. Publicar una foto de la ruta que esta realizando.
+3. Explorar algunas rutas cercanas.
+4. Elegir una ruta a su alrededor.
+5. Describir los elementos que conforman la ruta.
+6. Finalizar la ruta que esta realizando.
+
+
+- Los videos del test se encuentran en el siguiente link: https://drive.google.com/drive/folders/1YPkveBsqUj5OSWa31gtMmR662HzrXJXV?usp=sharing
+
 
 #### **Benchmark**
 Se realiza un benchmark con nuestros principales a modelos a seguir:
@@ -184,9 +198,6 @@ GPS STRAVA
 - Participa en retos personales y para conseguir la mejor marca en ‘segmentos’
 - Comparte tus entrenamientos en tu red social preferida (Facebook, Instagram y Twitter.)
  
-
-
-
 
 ### **Resultados de la investigación**
 
