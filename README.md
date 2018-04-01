@@ -141,9 +141,9 @@ Se realiza un benchmark con nuestros principales  modelos a seguir:
 9. La recomendación de amigos juega un papel muy importante al momento de planear un viaje pues esto les genera mayor confianza.
 10. Los principales destinos turisticos para visitar son las montañas y evitan quedarse en ciudades grandes.
 11. Una de las actividades que tambien se realiza de manera usual es tomar fotografías para compartirla en las redes sociales.
-12. 
-13. 
-14. 
+12. Respecto al test de wikiloc la app es entendible en su mayor parte al elegir la actividad a realizar, grabar la ruta, explorar rutas cercanas,visualizar los detalles estadisticos de las rutas, revisar recomendaciones, elegir una ruta cercana.
+13. Ellos desearían visualizar en una app recomendaciones de sus amigos los cuales han realizado la ruta cercana y estarían más prestos a seguir estas rutas.
+14. Las características de wikiloc que no quedaron muy claras o que no logran inferirse son la cámara de fotos, ellos prefieren elegir una ubicación en el mapa y tomar la foto.
 15. Al realizar el comparativo con las principales apps las características que destacaron son: la búsqueda de rutas cercanas y que permita grabarlas, presentación de datos estadísticos y gráficos de las rutas, compartir fotos y videos en redes sociales (Facebook, twitter, Instagram, g+ y Pinterest),acceso a mapas sin conexión, compartir ubicación en tiempo real (buddy beacon),tecnología de realidad aumentada (skyline), seguir a otros usuarios, registrar variedad de deportes y el filtrado de búsqueda para perros, niños o personas en silla de ruedas.
 
 ### **SÍNTESIS Y DEFINICIÓN**
