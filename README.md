@@ -138,6 +138,9 @@ Se realiza un benchmark con nuestros principales  modelos a seguir:
 6. Las actividades/deportes que se realizan en los viajes son: el paseo en tren, paseo a caballo, paseo en cuatrimotos, natación, ciclismo, escalada y senderismo.
 7. Al momento de realizar las actividades descritas anteriormente las planean por su cuenta empleando Google Maps generalmente y no han tenido inconvenientes cuando las realizaban.
 8. El 88% de los encuestados no conocen ninguna aplicación que permita trackear y monitorear recorridos.
+9. La recomendación de amigos juega un papel muy importante al momento de planear un viaje pues esto les genera mayor confianza.
+10. Los principales destinos turisticos para visitar son las montañas y evitan quedarse en ciudades grandes.
+11. Una de las actividades que tambien se realiza de manera usual es tomar fotografías para compartirla en las redes sociales.
 
 ### **SÍNTESIS Y DEFINICIÓN**
 ### **Affinity Mapping**
