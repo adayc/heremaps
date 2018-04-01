@@ -160,7 +160,7 @@ Se comenzó a trabajar para realizar el ejercicio de **findings en post it** par
 ### **User persona**
 #### **User persona primario**
  
-#### **User persona secundario**
+
 
 ### **Problems Statements**
 1.  **necesita**  **para** invertir sus ahorros.
@@ -232,6 +232,7 @@ Se plantea 3 flujos principales en que integren las principales tareas:
 
 3.  _**Sitemap*_ 
 #### **Paper prototyping - versión 1**
+
 #### **Paper prototyping - versión 2**
 #### **Prototipo de alta fidelidad**
 ### **TESTING**
