@@ -33,6 +33,7 @@
 
 
 ### **Público Objetivo**
+Jóvenes entre 18 y 28 años que viajan al menos una vez al año y realizan recorridos en sus viajes.
 ### **Stakeholders**
 ### **Reunión kick-off**
 #### **Entrevistas a los socios**
