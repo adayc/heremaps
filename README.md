@@ -223,9 +223,10 @@ Se plantea 3 flujos principales en que integren las principales tareas:
 
 3.  _**Sitemap*_ 
 #### **Paper prototyping - versión 1**
+https://marvelapp.com/32i6j87/screen/40514561
 
-#### **Paper prototyping - versión 2**
 #### **Prototipo de alta fidelidad**
+https://marvelapp.com/32j9ic5/screen/40552711
 ### **TESTING**
 #### **User Flow**
 #### **Task Flow**
