@@ -249,23 +249,23 @@ Se realizó el testing con 3 personas a las cuales se les contextualizo en un es
 2. Buscar lugares cercanos.
 3. Grabar una ruta.
 - _**Feedback**_ 
-- Al dar clic en planear se esperaba un calendario de actividades para colocar las fechas de viaje o algo así.
-- Se debe elegir la ruta al momento de dar clic en destino
-- Al elegir la reseña de lurin pensé que me apareceria alguna información estadisticas o datos del lugar.
-- Les parece muy interesante que le dé señales de lugares cercanos a su ubicacion.
-- El botón de grabar ruta deberia diferenciarse del elegir actividad es decir que esten separadas esas acciones.
-- Llamó su interes los datos estadisticos que le brinda la actividad.
-- Pensó que la imagen de explorar y la lupa llevaban a lo mismo.
-- Esperaban ver info de su perfil al dar clic en el muñequito.
-- Pensaron que en rutas saldrian recorridos recomendados.
--Le hubiera gustado entrar con la opción de facebook
-- Les gusta que al ingresar el destino en la opción rutas, le aparezca la ruta que debe tomar
-- Les parece práctico que le muestre lugares cercanos a su ruta.
-- Quisieran poder explorar más rutas en la opción de planear.
-- No entendieron a qué se refería con las reseñas.
-- Le parece práctico para buscar rutas
-- La encuentra muy similar a otras aplicaciones de rutas
-- Les gustaría que hubiera algo que la diferencie o un plus (no específica que)
+1. Al dar clic en planear se esperaba un calendario de actividades para colocar las fechas de viaje o algo así.
+2. Se debe elegir la ruta al momento de dar clic en destino
+3. Al elegir la reseña de lurin pensé que me apareceria alguna información estadisticas o datos del lugar.
+4. Les parece muy interesante que le dé señales de lugares cercanos a su ubicacion.
+5. El botón de grabar ruta deberia diferenciarse del elegir actividad es decir que esten separadas esas acciones.
+6. Llamó su interes los datos estadisticos que le brinda la actividad.
+7. Pensó que la imagen de explorar y la lupa llevaban a lo mismo.
+8. Esperaban ver info de su perfil al dar clic en el icono del user.
+9. Pensaron que en rutas saldrian recorridos recomendados.
+10. Le hubiera gustado entrar con la opción de facebook
+11. Les gusta que al ingresar el destino en la opción rutas, le aparezca la ruta que debe tomar
+12. Les parece práctico que le muestre lugares cercanos a su ruta.
+13. Quisieran poder explorar más rutas en la opción de planear.
+14. No entendieron a qué se refería con las reseñas.
+15. Le parece práctico para buscar rutas
+16. La encuentra muy similar a otras aplicaciones de rutas
+17. Les gustaría que hubiera algo que la diferencie o un plus (no específica que)
 
 
 #### **Segundo testing**
