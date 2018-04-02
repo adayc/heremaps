@@ -160,7 +160,7 @@ Se comenzó a trabajar para realizar el ejercicio de **findings en post it** par
 ### **User persona**
 #### **User persona primario**
  
-
+![](assets/imgs/user.png)
 
 ### **Problems Statements**
 1.  **necesita**  **para** invertir sus ahorros.
