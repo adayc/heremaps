@@ -190,16 +190,16 @@ Se comenzó a trabajar para realizar el ejercicio de **findings en post it** par
 
 ### **IDEACIÓN**
 ### **Feature List**
-1. Elaborar un perfil de inversor
-2. Establecer un monto mínimo de inversión apoyado en un monto inicial, monto mensual y monto final en base al tiempo.
-3. Sugerir empresas en las cuales se pueda invertir de acuerdo al perfil.
-4. Autorizar el débito de los montos mediante firma digital.
-5. Permite crear objetivos compartidos entre varias personas.
-6. Editar montos mensuales, esperados y período de tiempo de inversión.
-7. Agregar sugerencias de inversiones a una lista.
-8. Eliminar item de lista de empresas sugeridas.
-9. Rescatar un monto total u otra cantidad.
-10. Editar y eliminar un objetivo.
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
 ### **Priorización**
 ### **Storytelling**
 ### **PROTOTYPING**  
@@ -207,22 +207,18 @@ Se comenzó a trabajar para realizar el ejercicio de **findings en post it** par
 1.  _**Card Sorting**_
 - Luego de analizar las necesidades de los usuarios se propusieron xx items para la arquitectura de información del aplicativo. 
 - Se utilizó el card sorting abierto para que los usuarios crearán categorías y agruparán items en estas. 
-- En el siguiente link se encuentra la aplicación de la técnica: https://drive.google.com/open?id=1_oUxJWZEQ0nMZj87d2uyjHuHRCA-pUHi
+- En el siguiente link se encuentra la aplicación de la técnica: 
 
 
 2.  _**Conclusiones del card sorting**_  
-- Se modificó "Ranking de mis empresas" por "Ranking de mis inversiones"
-- Se agregó "Lista de inversión" y "Rescatar".
+- Se modificó "" por ""
+- Se agregó "" y "".
 - Con estas actualizaciones se logró eliminar los flujos innecesarios, sobretodo reducir los pasos para realizar alguna tarea.
 Este es el esquema que se obtuvo como resultado:
 
 
 3.  _**Propuesta de arquitectura de información**_ 
 Se plantea 3 flujos principales en que integren las principales tareas:
-1. Edición de Datos personales y financieros.
-2. Sugerencias de inversión.
-3. Rescatar montos parciales y totales de las inversiones.
-4. Plantear nuevos objetivos y visualizar los actuales.
 
 
 3.  _**Sitemap*_ 
@@ -270,11 +266,11 @@ Se plantea 3 flujos principales en que integren las principales tareas:
 #### **Tecnología a emplear**
 
 #### Tipo de APP
-- Nuestro producto es una aplicación nativa, desarrollada tanto para iOS como para Android.
+- Nuestro producto es una aplicación web.
 
-- La elección fue hecha a raíz de que la mayoría de nuestros usuarios  usan sus dispositivos celulares todo el tiempo para estar conectados y para realizar operaciones bancarias y también porque se quiere aprovechar ciertas capacidades tanto del dispositivo como del sistema operativo, por ejemplo:
+- La elección fue hecha a raíz de que la mayoría de nuestros usuarios  usan sus dispositivos celulares todo el tiempo para estar conectados y para realizar sus rutas cada vez que viajan y también porque se quiere aprovechar ciertas capacidades como del sistema operativo,GPS, apps incorporados, etc.
 
-- Biometría: Opción de la huella dactilar para el ingreso al aplicativo, puesto que esto supone una mayor seguridad para el usuario.
+
 
 ### APIS y SDK
 Para la visualización del mapa o el Display Map, usar el siguiente Feature “INTERACTIVE
