@@ -179,16 +179,15 @@ Se comenzó a trabajar para realizar el ejercicio de **findings en post it** par
 
 
 ### **What if?**
-1. **What if** no necesitamos la firma para las transacciones?
-2. **What if** un asesor realiza los trámites para autorizar el débito del monto mensual?
-3. **What if** los usuarios saben de finanzas y no necesitan un asesor?
-4. **What if** los usuarios buscan las empresas a invertir y evitamos sugerir?
-5. **What if** los usuarios arriesgan un monto mayor del mínimo sugerido?
-6. **What if** los usuarios confian en las entidades de inversión'
-7. **What if** no existe riesgo al invertir?
-8. **What if** el usuario no posee un perfil de inversor?
-9. **What if** los usuarios no necesitan evolutivos de sus inversiones?
-10. **What if** el usuario rescata el monto actual cuando logra la meta y no en cualquier momento?
+1. **What if** no mostramos rutas cercanas solo el punto de ubicación?
+2. **What if** añadimos comentarios de las rutas cercanas y los puntuamos con estrellas?
+3. **What if** grabamos los recorridos y los almacenmos en la nube directamente?
+4. **What if** no tomamos fotos desde la aplicación y solo compartimos las predeterminadas?
+5. **What if** no necesitamos compartir nuestra ubicación en tiempo real porque todas las rutas son seguras?
+6. **What if** los puntos importantes estan indicados en los caminos de las rutas a realizar?
+7. **What if** no comparitmos fotos y videos en las redes sociales?
+8. **What if** los mapas se pueden acceder sin conexión cuando los descargamos?
+
 ### **IDEACIÓN**
 ### **Feature List**
 1. Elaborar un perfil de inversor
