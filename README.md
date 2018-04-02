@@ -200,7 +200,7 @@ Se comenzó a trabajar para realizar el ejercicio de **findings en post it** par
 8. 
 9. 
 10. 
-### **Priorización**
+
 ### **Storytelling**
 ### **PROTOTYPING**  
 #### **Arquitectura de la información**
