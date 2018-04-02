@@ -238,26 +238,49 @@ https://marvelapp.com/32i6j87/screen/40514561
 #### **Prototipo de alta fidelidad**
 https://marvelapp.com/32j9ic5/screen/40552711
 ### **TESTING**
-#### **User Flow**
-#### **Task Flow**
-#### **Customer Journey Map**
+
 
 
 #### **Primer testing - paper prototyping**
+Se realizó el testing con 3 personas a las cuales se les contextualizo en un escenario y se les brindo una lista de tareas a realizar.
 - _**Script del testing**_ 
 - _**Tareas a realizar**_ 
-- _**Conclusión**_ 
+1. Elegir una ruta
+2. Buscar lugares cercanos.
+3. Grabar una ruta.
+- _**Feedback**_ 
+- Al dar clic en planear se esperaba un calendario de actividades para colocar las fechas de viaje o algo así.
+- Se debe elegir la ruta al momento de dar clic en destino
+- Al elegir la reseña de lurin pensé que me apareceria alguna información estadisticas o datos del lugar.
+- Les parece muy interesante que le dé señales de lugares cercanos a su ubicacion.
+- El botón de grabar ruta deberia diferenciarse del elegir actividad es decir que esten separadas esas acciones.
+- Llamó su interes los datos estadisticos que le brinda la actividad.
+- Pensó que la imagen de explorar y la lupa llevaban a lo mismo.
+- Esperaban ver info de su perfil al dar clic en el muñequito.
+- Pensaron que en rutas saldrian recorridos recomendados.
+-Le hubiera gustado entrar con la opción de facebook
+- Les gusta que al ingresar el destino en la opción rutas, le aparezca la ruta que debe tomar
+- Les parece práctico que le muestre lugares cercanos a su ruta.
+- Quisieran poder explorar más rutas en la opción de planear.
+- No entendieron a qué se refería con las reseñas.
+- Le parece práctico para buscar rutas
+- La encuentra muy similar a otras aplicaciones de rutas
+- Les gustaría que hubiera algo que la diferencie o un plus (no específica que)
+
 
 #### **Segundo testing**
-- _**Mdificaciones realizadas**_ 
+- _**Modificaciones realizadas**_ 
 - _**Script del testing**_ 
 - _**Tareas a realizar**_ 
 - _**Feedback**_ 
 #### **Tercer testing**
-- _**Mdificaciones realizadas**_ 
+- _**Modificaciones realizadas**_ 
 - _**Script del testing**_ 
 - _**Tareas a realizar**_ 
 - _**Feedback**_ 
+#### **User Flow**
+#### **Task Flow**
+#### **Customer Journey Map**
 #### Task Completion Success Rate
 ### **VISUAL DESIGN**
 #### **Guia de estilo**
