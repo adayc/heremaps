@@ -34,11 +34,6 @@
 
 ### **Público Objetivo**
 Jóvenes entre 18 y 28 años que viajan al menos una vez al año y realizan recorridos en sus viajes.
-### **Stakeholders**
-### **Reunión kick-off**
-#### **Entrevistas a los socios**
-#### **Reguladores estatales y financieros**
-
 
 ### **Business Model Canvas**
 
@@ -163,15 +158,15 @@ Se comenzó a trabajar para realizar el ejercicio de **findings en post it** par
 ![](assets/imgs/user.png)
 
 ### **Problems Statements**
-1.  **necesita**  **para** invertir sus ahorros.
-2.  **necesita** **para** invertir de acuerdo a su perfil.
-3.  **necesita**  **para** realizar todos sus viajes planeados.
-4.  **necesita**  **para** emplear su tiempo en otras actividades.
-5.  **necesita**  **para** tener seguridad de que sus ahorros estan creciendo.
-6.  **necesita**  **para** mejorar sus inversiones en un determinado tiempo.
-7.  **necesita**  **para** solventar sus gastos en cualquier momento.
-8.  **necesita**  **para** obtener ingresos rápidamente.
-9.  **necesita**  **para** realizar inversiones en línea.
+1. Ximena **necesita** buscar rutas cercanas  **para** explorar lugares en los recorridos que realiza sus viajes.
+2. Ximena **necesita** revisar blogs y recomendaciones **para** planear recorridos en sus viajes.
+3. Ximena **necesita** recorrer las rutas más recomendadas **para** realizarlas y disfrutar más del Perú.
+4. Ximena  **necesita** una aplicación   **para** grabar sus recorridos más importantes.
+5. Ximena **necesita** tomar fotos y videos de sus recorridos  **para** compartirlos en sus redes sociales en tiempo real.
+6. Ximena  **necesita** acceder a mapas sin conexión  **para** ubicarse de mejor manera en sus recorridos.
+7. Ximena **necesita** compartir su ubicación en tiempo real **para** que sus familiares y amigos tengan conocimiento en donde esta.
+8. Ximena **necesita** ubicar cajeros, restaurantes y puntos de paso  **para** planear de mejor forma sus rutas.
+
 ### **How Might We? (HMW)**
 1. **HMW** ?
 2. **HMW** ?
