@@ -143,15 +143,14 @@ Se realiza un benchmark con nuestros principales  modelos a seguir:
 
 ### **SÍNTESIS Y DEFINICIÓN**
 ### **Affinity Mapping**
-Se comenzó a trabajar para realizar el ejercicio de **findings en post it** para posteriormente realizar el **Affinity Mapping** donde se agruparon los principales motivos de inversión y no inversión según su categoría.
+Se comenzó a trabajar para realizar el ejercicio de **findings en post it** para posteriormente realizar el **Affinity Mapping** donde se agruparon ....
 
 #### **Comentarios de los usuarios**
-- "Porque las finanzas o temas de dinero no son lo mío, me causa mucha inseguridad por el tema legal. Pero, si me informase mejor de cómo hacerlo correctamente, me animaría a hacerlo."
+- ""
 
-- "No tenía muy claro el tema de las inverisiones."
-- "Tengo miedo con lo que pueda pasar con mi dinero."
-- "No tengo asesoría para hacerlo."
-- "Me da miedo y siento que no soy una persona muy orientada a esas cosas."
+- ""
+- ""
+
 ### **User persona**
 #### **User persona primario**
  
