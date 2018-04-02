@@ -161,22 +161,23 @@ Se comenzó a trabajar para realizar el ejercicio de **findings en post it** par
 1. Ximena **necesita** buscar rutas cercanas  **para** explorar lugares en los recorridos que realiza sus viajes.
 2. Ximena **necesita** revisar blogs y recomendaciones **para** planear recorridos en sus viajes.
 3. Ximena **necesita** recorrer las rutas más recomendadas **para** realizarlas y disfrutar más del Perú.
-4. Ximena  **necesita** una aplicación   **para** grabar sus recorridos más importantes.
+4. Ximena  **necesita** una aplicación   **para** grabar sus recorridos más importantes y recomendarlos.
 5. Ximena **necesita** tomar fotos y videos de sus recorridos  **para** compartirlos en sus redes sociales en tiempo real.
 6. Ximena  **necesita** acceder a mapas sin conexión  **para** ubicarse de mejor manera en sus recorridos.
 7. Ximena **necesita** compartir su ubicación en tiempo real **para** que sus familiares y amigos tengan conocimiento en donde esta.
 8. Ximena **necesita** ubicar cajeros, restaurantes y puntos de paso  **para** planear de mejor forma sus rutas.
 
 ### **How Might We? (HMW)**
-1. **HMW** ?
-2. **HMW** ?
-3. **HMW** ?
-4. **HMW** ?
-5. **HMW** ?
-6. **HMW** ?
-7. **HMW** ?
-8. **HMW** ?
-9. **HMW**?
+1. **HMW** mostrar las rutas cercanas a nuestro punto de ubicación ?
+2. **HMW** indicar los blogs y reseñas más recomendados de las rutas cercanas ?
+3. **HMW** grabar los recorridos de nuestros viajes para recomendarlos?
+4. **HMW** capturar fotos y videos de nuestros recorridos cuando realizamos las actividades ?
+5. **HMW** compartir la ubicación en tiempo real y que nuestros famiiares y conocidos puedan verlos?
+6. **HMW** ubicar puntos importantes en el recorrido cada vez que los necesitemos?
+7. **HMW** compartir los videos y fotos en nuestras redes sociales?
+8. **HMW** acceder a mapas sin conexión?
+
+
 ### **What if?**
 1. **What if** no necesitamos la firma para las transacciones?
 2. **What if** un asesor realiza los trámites para autorizar el débito del monto mensual?
