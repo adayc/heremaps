@@ -190,16 +190,26 @@ Se comenzó a trabajar para realizar el ejercicio de **findings en post it** par
 
 ### **IDEACIÓN**
 ### **Feature List**
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
+1. Búsqueda de rutas cercanas.
+2. Grabar las rutas que se este realizando en tiempo real.
+3.  Presentación de datos estadísticos y gráficos de las rutas.
+4. Compartir fotos y videos en redes sociales (Facebook, twitter, Instagram, g+ y Pinterest).
+5. Acceso a mapas sin conexión mediante su descarga.
+6. Compartir ubicación en tiempo real (buddy beacon).
+7. Seguir a otros usuarios, comentar su actividad y puntuarlas.
+8. Tecnología de realidad aumentada (skyline)
+9. Registrar variedad de deportes y actividades que se puedan realizar para guardarlas.
+10. Filtrado de búsqueda de lugares accesibles para perros, niños o personas en silla de ruedas.
+### **Priorización**
+1. Búsqueda de rutas cercanas.
+2. Grabar las rutas que se este realizando en tiempo real.
+3.  Presentación de datos estadísticos y gráficos de las rutas.
+4. Compartir fotos y videos en redes sociales (Facebook, twitter, Instagram, g+ y Pinterest).
+5. Acceso a mapas sin conexión mediante su descarga.
+6. Compartir ubicación en tiempo real (buddy beacon).
+7. Seguir a otros usuarios, comentar su actividad y puntuarlas.
+
+8. Registrar variedad de deportes y actividades que se puedan realizar para guardarlas.
 
 ### **Storytelling**
 ### **PROTOTYPING**  
