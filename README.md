@@ -227,16 +227,9 @@ Se plantea 3 flujos principales en que integren las principales tareas:
 #### **Paper prototyping - versión 2**
 #### **Prototipo de alta fidelidad**
 ### **TESTING**
-#### **A/B Testing**
-1.  _**Panel principal**_
-2.  _**Menú de navegabilidad**_
 #### **User Flow**
 #### **Task Flow**
 #### **Customer Journey Map**
-- _**Mdificaciones realizadas**_ 
-- _**Script del testing**_ 
-- _**Tareas a realizar**_ 
-- _**Feedback**_ 
 
 
 #### **Primer testing - paper prototyping**
@@ -244,12 +237,12 @@ Se plantea 3 flujos principales en que integren las principales tareas:
 - _**Tareas a realizar**_ 
 - _**Conclusión**_ 
 
-#### **Segundo testing - paper prototyping**
+#### **Segundo testing**
 - _**Mdificaciones realizadas**_ 
 - _**Script del testing**_ 
 - _**Tareas a realizar**_ 
 - _**Feedback**_ 
-#### **Tercer testing - prototipo de alta fidelidad**
+#### **Tercer testing**
 - _**Mdificaciones realizadas**_ 
 - _**Script del testing**_ 
 - _**Tareas a realizar**_ 
