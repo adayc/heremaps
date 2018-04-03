@@ -319,4 +319,3 @@ utilizar el siguiente Feature “Weather”
 (https://developer.here.com/documentation/weather/topics/example-seven-dayweather-forecast.html
 ).
 
-- GPS: Permite el acceso a la ubicación del usuario en la opción de Retiro express.
