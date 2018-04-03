@@ -259,22 +259,22 @@ Se realizó el testing con 3 personas a las cuales se les contextualizo en un es
 
 
 ### APIS y SDK
-Para la visualización del mapa o el Display Map, usar el siguiente Feature “INTERACTIVE
+- Para la visualización del mapa o el Display Map, usar el siguiente Feature “INTERACTIVE
 MAPS” ( https://developer.here.com/documentation/android-starter/topics/maps.html o
 https://developer.here.com/documentation/ios-starter/topics/maps.html ).
- Para la opción grabar recorrido, recomendamos el Feature “POSITIONING”
+- Para la opción grabar recorrido, recomendamos el Feature “POSITIONING”
 (https://developer.here.com/documentation/android-starter/topics/mappositioning.html).
- Para poder encontrar lugares que se encuentran alrededor de mi posición recomendamos
+- Para poder encontrar lugares que se encuentran alrededor de mi posición recomendamos
 usar el Feature “PLACES” (https://developer.here.com/documentation/androidstarter/topics/places.html
 ).
- Para poder reportar errores en el mapa, falta de información o sugerencias puedes usar el
+- Para poder reportar errores en el mapa, falta de información o sugerencias puedes usar el
 siguiente Feature “MAP FEEDBACK”
 (https://developer.here.com/documentation/embedded-editor/topics/add-as-appcomponent.html
 ).
- Para poder darle la ruta a tomar si encuentra un lugar cercano, utilizar el siguiente Feature
+- Para poder darle la ruta a tomar si encuentra un lugar cercano, utilizar el siguiente Feature
 “ROUTING” (https://developer.here.com/documentation/android-starter/topics/routingstarter.html
 ).
- Si se desea consultar el tiempo climático del lugar donde se encontrará una semana antes,
+- Si se desea consultar el tiempo climático del lugar donde se encontrará una semana antes,
 utilizar el siguiente Feature “Weather”
 (https://developer.here.com/documentation/weather/topics/example-seven-dayweather-forecast.html
 ).
