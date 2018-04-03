@@ -252,7 +252,7 @@ Se realizó el testing con 3 personas a las cuales se les contextualizo en un es
 #### **Tecnología a emplear**
 
 #### Tipo de APP
-- Nuestro producto es una aplicación web.
+- Nuestro producto es una aplicación nativa.
 
 - La elección fue hecha a raíz de que la mayoría de nuestros usuarios  usan sus dispositivos celulares todo el tiempo para estar conectados y para realizar sus rutas cada vez que viajan y también porque se quiere aprovechar ciertas capacidades como del sistema operativo,GPS, apps incorporados, etc.
 
