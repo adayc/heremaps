@@ -212,7 +212,7 @@ https://marvelapp.com/32j9ic5/screen/40552711
 ### **TESTING**
 #### **Primer testing - paper prototyping**
 Se realizó el testing con 3 personas a las cuales se les contextualizo en un escenario y se les brindo una lista de tareas a realizar.
-- _**Script del testing**_ 
+
 - _**Tareas a realizar**_ 
 1. Elegir una ruta
 2. Buscar lugares cercanos.
@@ -238,8 +238,7 @@ Se realizó el testing con 3 personas a las cuales se les contextualizo en un es
 
 
 #### **Segundo testing**
-- _**Modificaciones realizadas**_ 
-- _**Script del testing**_ 
+Se realizó el testing con 2 personas a las cuales se les contextualizo en un escenario y se les brindo una lista de tareas a realizar.
 - _**Tareas a realizar**_ 
 - _**Feedback**_ 
 
