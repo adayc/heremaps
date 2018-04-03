@@ -35,7 +35,7 @@
 ### **Público Objetivo**
 Jóvenes entre 18 y 28 años que viajan al menos una vez al año y realizan recorridos en sus viajes.
 
-### **Business Model Canvas**
+
 
 ### **Plan propuesto de investigación**
 
@@ -142,14 +142,6 @@ Se realiza un benchmark con nuestros principales  modelos a seguir:
 15. Al realizar el comparativo con las principales apps las características que destacaron son: la búsqueda de rutas cercanas y que permita grabarlas, presentación de datos estadísticos y gráficos de las rutas, compartir fotos y videos en redes sociales (Facebook, twitter, Instagram, g+ y Pinterest),acceso a mapas sin conexión, compartir ubicación en tiempo real (buddy beacon),tecnología de realidad aumentada (skyline), seguir a otros usuarios, registrar variedad de deportes y el filtrado de búsqueda para perros, niños o personas en silla de ruedas.
 
 ### **SÍNTESIS Y DEFINICIÓN**
-### **Affinity Mapping**
-Se comenzó a trabajar para realizar el ejercicio de **findings en post it** para posteriormente realizar el **Affinity Mapping** donde se agruparon ....
-
-#### **Comentarios de los usuarios**
-- ""
-
-- ""
-- ""
 
 ### **User persona**
 #### **User persona primario**
@@ -175,7 +167,6 @@ Se comenzó a trabajar para realizar el ejercicio de **findings en post it** par
 6. **HMW** ubicar puntos importantes en el recorrido cada vez que los necesitemos?
 7. **HMW** compartir los videos y fotos en nuestras redes sociales?
 8. **HMW** acceder a mapas sin conexión?
-
 
 ### **What if?**
 1. **What if** no mostramos rutas cercanas solo el punto de ubicación?
@@ -210,36 +201,15 @@ Se comenzó a trabajar para realizar el ejercicio de **findings en post it** par
 
 8. Registrar variedad de deportes y actividades que se puedan realizar para guardarlas.
 
-### **Storytelling**
+
 ### **PROTOTYPING**  
-#### **Arquitectura de la información**
-1.  _**Card Sorting**_
-- Luego de analizar las necesidades de los usuarios se propusieron xx items para la arquitectura de información del aplicativo. 
-- Se utilizó el card sorting abierto para que los usuarios crearán categorías y agruparán items en estas. 
-- En el siguiente link se encuentra la aplicación de la técnica: 
 
-
-2.  _**Conclusiones del card sorting**_  
-- Se modificó "" por ""
-- Se agregó "" y "".
-- Con estas actualizaciones se logró eliminar los flujos innecesarios, sobretodo reducir los pasos para realizar alguna tarea.
-Este es el esquema que se obtuvo como resultado:
-
-
-3.  _**Propuesta de arquitectura de información**_ 
-Se plantea 3 flujos principales en que integren las principales tareas:
-
-
-3.  _**Sitemap*_ 
 #### **Paper prototyping - versión 1**
 https://marvelapp.com/32i6j87/screen/40514561
 
 #### **Prototipo de alta fidelidad**
 https://marvelapp.com/32j9ic5/screen/40552711
 ### **TESTING**
-
-
-
 #### **Primer testing - paper prototyping**
 Se realizó el testing con 3 personas a las cuales se les contextualizo en un escenario y se les brindo una lista de tareas a realizar.
 - _**Script del testing**_ 
@@ -272,18 +242,8 @@ Se realizó el testing con 3 personas a las cuales se les contextualizo en un es
 - _**Script del testing**_ 
 - _**Tareas a realizar**_ 
 - _**Feedback**_ 
-#### **Tercer testing**
-- _**Modificaciones realizadas**_ 
-- _**Script del testing**_ 
-- _**Tareas a realizar**_ 
-- _**Feedback**_ 
-#### **User Flow**
-#### **Task Flow**
-#### **Customer Journey Map**
-#### Task Completion Success Rate
-### **VISUAL DESIGN**
-#### **Guia de estilo**
-#### **Landing Page**
+
+
 
 ### **CONCLUSIONES**
 

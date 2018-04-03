@@ -1,0 +1,55 @@
+____
+### **Business Model Canvas**
+____
+PLAN PROPUESTO DE INV
+
+_________________-
+### **Affinity Mapping**
+Se comenzó a trabajar para realizar el ejercicio de **findings en post it** para posteriormente realizar el **Affinity Mapping** donde se agruparon ....
+
+#### **Comentarios de los usuarios**
+- ""
+
+- ""
+- ""
+_____________
+uSER PERSONA
+______________
+### **Storytelling**
+_______________
+PROTOTYPING
+
+
+#### **Arquitectura de la información**
+1.  _**Card Sorting**_
+- Luego de analizar las necesidades de los usuarios se propusieron xx items para la arquitectura de información del aplicativo. 
+- Se utilizó el card sorting abierto para que los usuarios crearán categorías y agruparán items en estas. 
+- En el siguiente link se encuentra la aplicación de la técnica: 
+
+
+2.  _**Conclusiones del card sorting**_  
+- Se modificó "" por ""
+- Se agregó "" y "".
+- Con estas actualizaciones se logró eliminar los flujos innecesarios, sobretodo reducir los pasos para realizar alguna tarea.
+Este es el esquema que se obtuvo como resultado:
+
+
+3.  _**Propuesta de arquitectura de información**_ 
+Se plantea 3 flujos principales en que integren las principales tareas:
+
+
+3.  _**Sitemap*_ 
+
+
+_______________________________________
+despues del segundo testing
+_____________
+#### **User Flow**
+#### **Task Flow**
+#### **Customer Journey Map**
+#### Task Completion Success Rate
+### **VISUAL DESIGN**
+#### **Guia de estilo**
+#### **Landing Page**
+________________
+CONCLUSIONES
