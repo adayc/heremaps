@@ -1,26 +1,11 @@
 # Here Maps
--------------------
-## Tabla de contenido
-- [Idea de Negocio](#idea-de-negocio)
-- [Público objetivo](#público-objetivo)
 
-- [Stakeholders del proyecto](#stakeholders-del-proyecto)
 
-- [Pautas para el KICK OFF MEETING](#pautas-para-el-kick-off-meeting)
 
-- [Business Model Canvas](#business-model-canvas)
+![image](https://user-images.githubusercontent.com/32311089/38593754-9647c096-3d08-11e8-98e6-ae86919609a1.png)
+## Desarrollado para
+ [Here maps](https://www.here.com/en)
 
-- [Propuesta de research](#propuesta-de-research)
-
-- [Trello de organización](#trello-de-organización)
-  https://trello.com/b/eUD31zlB/here-maps
-- [Nuestro proceso de UX](#nuestro-proceso-ux)
-
-- [User Research](#user-research)
-
-- [User Flow](#user-flow)
-- [Task Flow](#task-flow)
-- [Equipo de trabajo](#equipo-de-trabajo)
 
 ### **EXPERIENCIA EN EL USO DE APPS DE MONITOREO Y TRACK DE RECORRIDOS**
 
