@@ -1,5 +1,7 @@
 # Here Maps
 
+Es una aplicación móvil que permita a los usuarios trackear y monitorear recorridos que se realice en senderos al aire libre/outdoor, orientada a los amantes de las actividades de aventura (montañas, lagos, parques, etc.) en Perú.
+Esta app permite buscar rutas cercanas, grabarlas y compartir fotos, videos en tiempo real. Además de acceder a mapas sin conexión y compartir tu ubicación en tiempo real.
 
 
 ![image](https://user-images.githubusercontent.com/32311089/38593754-9647c096-3d08-11e8-98e6-ae86919609a1.png)
